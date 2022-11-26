@@ -1,0 +1,13 @@
+Program Inputs:
+The input to this script are two integers.
+
+<14>
+<7>
+
+Program Script:
+OP_DUP		# Duplicate one of the inputs
+OP_ADD		# Add the duplicated input with the original input
+OP_EQUAL	# Check that the elements in the stack are equal
+
+Result:
+The OP_EQUAL result should return true, because 7x2=14
