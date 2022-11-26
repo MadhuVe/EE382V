@@ -1,0 +1,20 @@
+Transaction Summary:
+
+Txid: ab2bdc80234686fa38575bd0262ddede13becb367738310e239fbfd6f5b94b48
+Link: https://mempool.space/testnet/tx/ab2bdc80234686fa38575bd0262ddede13becb367738310e239fbfd6f5b94b48
+
+Sending Address: tb1qcru6sddyswxgul2y8z3ze294z5rxlv4afyfqjx
+Receiving Address: tb1q4280xax2lt0u5a5s9hd4easuvzalm8v9ege9ge
+
+Sent via bitcoin-qt, broadcasted to testnet network
+
+Transaction Details:
+Date: 11/26/22 14:28
+To: tb1q4280xax2lt0u5a5s9hd4easuvzalm8v9ege9ge
+Debit: -0.00000500 BTC
+Transaction fee: -0.00000141 BTC
+Net amount: -0.00000641 BTC
+Transaction ID: ab2bdc80234686fa38575bd0262ddede13becb367738310e239fbfd6f5b94b48
+Transaction total size: 222 bytes
+Transaction virtual size: 141 bytes
+Output index: 1
