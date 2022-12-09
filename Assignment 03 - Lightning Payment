@@ -8,3 +8,5 @@ link: https://lightningdecoder.com/lntb10u1p3csyaypp5dwngerc5lpapuyqh47r99886wkt
 Channel Close Transaction: 
 txid: c306aec2d2c752a46081e30d2a0e7e45c5e8a59abc500d8ae2edd979dd1aebf7
 link: https://mempool.space/testnet/tx/c306aec2d2c752a46081e30d2a0e7e45c5e8a59abc500d8ae2edd979dd1aebf7
+
+I used the LND demo to complete this assignment. 
